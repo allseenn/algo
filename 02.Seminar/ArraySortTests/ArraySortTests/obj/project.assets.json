@@ -1752,36 +1752,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\EvilDracur\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages": {},
-    "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages": {}
+    "C:\\Users\\slava\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\sources\\gb\\alg\\group2\\ArraySortTests\\ArraySortTests\\ArraySortTests.csproj",
+      "projectUniqueName": "D:\\github\\algo\\02.Seminar\\ArraySortTests\\ArraySortTests\\ArraySortTests.csproj",
       "projectName": "ArraySortTests",
-      "projectPath": "C:\\sources\\gb\\alg\\group2\\ArraySortTests\\ArraySortTests\\ArraySortTests.csproj",
-      "packagesPath": "C:\\Users\\EvilDracur\\.nuget\\packages\\",
-      "outputPath": "C:\\sources\\gb\\alg\\group2\\ArraySortTests\\ArraySortTests\\obj\\",
+      "projectPath": "D:\\github\\algo\\02.Seminar\\ArraySortTests\\ArraySortTests\\ArraySortTests.csproj",
+      "packagesPath": "C:\\Users\\slava\\.nuget\\packages\\",
+      "outputPath": "D:\\github\\algo\\02.Seminar\\ArraySortTests\\ArraySortTests\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
-        "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\EvilDracur\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
+        "C:\\Users\\slava\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1821,7 +1811,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }
